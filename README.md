@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Aparna N Kartha
 
-<h3 align="center">An Aspiring Software Development Engineer in Test</h3>
+<h3 align="left">An Aspiring Software Development Engineer in Test</h3>
 
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
