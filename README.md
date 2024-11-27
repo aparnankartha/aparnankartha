@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aparna N Kartha
-I hold a B.Tech in Computer Science, and I’m currently diving into the exciting world of software testing through an SDET course at Masai. 🎓
+I hold a B.Tech in Computer Science and Engineering, and I’m currently diving into the exciting world of software testing through an SDET course at Masai. 🎓
 I’m passionate about working with Java, JavaScript, and Python, and I’m dedicated to sharpening my testing skills to ensure quality and efficiency in software development.
 When I’m not studying, I love exploring new technologies and taking online courses to keep my skills fresh.
 
